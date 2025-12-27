@@ -1,0 +1,21 @@
+{
+  "name": "nexus-ai-landing",
+  "version": "1.0.0",
+  "description": "Minimalist landing page for Nexus.ai community",
+  "main": "index.html",
+  "scripts": {
+    "start": "serve .",
+    "build": "echo 'No build step required'"
+  },
+  "keywords": [
+    "nexus",
+    "ai",
+    "landing-page",
+    "minimalist"
+  ],
+  "author": "Nexus.ai Team",
+  "license": "MIT",
+  "devDependencies": {
+    "serve": "^14.2.1"
+  }
+}

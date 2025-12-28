@@ -1,0 +1,11 @@
+{
+  "name": "nexus-ai-landing-page",
+  "version": "1.0.0",
+  "description": "Minimalist landing page for Nexus.ai community",
+  "scripts": {
+    "start": "serve ."
+  },
+  "devDependencies": {
+    "serve": "^14.2.0"
+  }
+}
